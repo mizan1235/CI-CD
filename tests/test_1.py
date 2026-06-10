@@ -1,4 +1,4 @@
-from src import add,sub
+from src.func import add,sub
 
 
 
